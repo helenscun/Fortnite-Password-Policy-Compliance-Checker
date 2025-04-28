@@ -51,7 +51,7 @@ This project consists of several SQL scripts that together create a complete pas
 1. Clone this repository:
    ```bash
    git clone https://github.com/helenscun/Fortnite-Password-Policy-Compliance-Checker.git
-   cd fortnite-password-checker
+   cd Fortnite-Password-Policy-Compliance-Checker
    ```
 
 2. Execute the SQL files in order:
