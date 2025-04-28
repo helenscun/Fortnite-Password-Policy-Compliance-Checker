@@ -50,7 +50,7 @@ This project consists of several SQL scripts that together create a complete pas
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/helenscun/fortnite-password-checker.git
+   git clone https://github.com/helenscun/Fortnite-Password-Policy-Compliance-Checker.git
    cd fortnite-password-checker
    ```
 
